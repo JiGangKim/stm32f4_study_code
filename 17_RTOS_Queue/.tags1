@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+huart2	C:\Users\dongh\Documents\IAR Workspace\17_RTOS_Queue\Src\main.c	/^UART_HandleTypeDef huart2;$/;"	variable	line:43
+defaultTaskHandle	C:\Users\dongh\Documents\IAR Workspace\17_RTOS_Queue\Src\main.c	/^osThreadId defaultTaskHandle;$/;"	variable	line:45
+UART2TxHandle	C:\Users\dongh\Documents\IAR Workspace\17_RTOS_Queue\Src\main.c	/^osThreadId UART2TxHandle;$/;"	variable	line:46
+UART2TxBufferHandle	C:\Users\dongh\Documents\IAR Workspace\17_RTOS_Queue\Src\main.c	/^osMessageQId UART2TxBufferHandle;$/;"	variable	line:47
+UART2RxBufferHandle	C:\Users\dongh\Documents\IAR Workspace\17_RTOS_Queue\Src\main.c	/^osMessageQId UART2RxBufferHandle;$/;"	variable	line:48
+main	C:\Users\dongh\Documents\IAR Workspace\17_RTOS_Queue\Src\main.c	/^int main(void)$/;"	function	line:71	signature:(void)
+SystemClock_Config	C:\Users\dongh\Documents\IAR Workspace\17_RTOS_Queue\Src\main.c	/^void SystemClock_Config(void)$/;"	function	line:152	signature:(void)
+MX_USART2_UART_Init	C:\Users\dongh\Documents\IAR Workspace\17_RTOS_Queue\Src\main.c	/^void MX_USART2_UART_Init(void)$/;"	function	line:189	signature:(void)
+MX_GPIO_Init	C:\Users\dongh\Documents\IAR Workspace\17_RTOS_Queue\Src\main.c	/^void MX_GPIO_Init(void)$/;"	function	line:226	signature:(void)
+StartDefaultTask	C:\Users\dongh\Documents\IAR Workspace\17_RTOS_Queue\Src\main.c	/^void StartDefaultTask(void const * argument)$/;"	function	line:355	signature:(void const * argument)
+UART2TxTask	C:\Users\dongh\Documents\IAR Workspace\17_RTOS_Queue\Src\main.c	/^void UART2TxTask(void const * argument)$/;"	function	line:368	signature:(void const * argument)
+assert_failed	C:\Users\dongh\Documents\IAR Workspace\17_RTOS_Queue\Src\main.c	/^void assert_failed(uint8_t* file, uint32_t line)$/;"	function	line:389	signature:(uint8_t* file, uint32_t line)
